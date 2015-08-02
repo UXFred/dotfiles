@@ -1,3 +1,8 @@
+#####################################################################################
+# INPUT RC
+# The behavior of line input editing and keybindings is stored here
+#####################################################################################
+
 # Make Tab autocomplete regardless of filename case
 set completion-ignore-case on
 

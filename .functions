@@ -1,3 +1,8 @@
+#####################################################################################
+# FUNCTION LIST
+# List with all your personal shell functions
+#####################################################################################
+
 # Simple calculator
 function calc() {
 	local result="";
