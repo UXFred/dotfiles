@@ -4,16 +4,16 @@
 #####################################################################################
 
 # Easier navigation: .., ..., ...., ....., ~ and -
-alias .. = "cd .."
-alias ... = "cd ../.."
-alias .... = "cd ../../.."
-alias ..... = "cd ../../../.."
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
 
 # Shortcuts
-alias dropbox = "cd ~/Documents/Dropbox"
-alias dl = "cd ~/Downloads"
-alias desk = "cd ~/Desktop"
-alias projects = "cd ~/projects"
+alias dropbox="cd ~/Documents/Dropbox"
+alias dl="cd ~/Downloads"
+alias desk="cd ~/Desktop"
+alias projects="cd ~/projects"
 alias h="history"
 alias j="jobs"
 

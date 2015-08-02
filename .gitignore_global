@@ -1,3 +1,7 @@
+# Defaults
+*~
+.DS_Store
+
 # Server config files
 .htaccess
 
