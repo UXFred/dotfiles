@@ -65,6 +65,9 @@ alias chromekill="ps ux | grep '[C]hrome Helper --type=renderer' | grep -v exten
 # Lock the screen (when going AFK)
 alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend"
 
+# Quit alt
+alias quit="exit"
+
 # Stopwatch
 # alias timer='echo "Timer started. Stop with Ctrl-D." && date && time cat && date'
 
